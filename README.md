@@ -9,10 +9,10 @@ https://www.youtube.com/watch?v=ArsvoA9_Tgw
 ### 추출 결과
 실제 썸네일로 사용한 것과 유사한 장면이 추출되기도 함<br>
 
-추출한 이미지
+추출한 이미지<br>
 ![898가 잘 모르는 수육 레전드 부위_1080p-Scene-201-02](https://user-images.githubusercontent.com/86832485/187139264-4e4dbdbf-7031-4fb3-961d-8a6fb6ebd03f.jpg)
 
-실제 썸네일
+실제 썸네일<br>
 ![image](https://user-images.githubusercontent.com/86832485/187140923-3c6ec759-8196-4835-aed6-b4a340797c46.png)
 
 
