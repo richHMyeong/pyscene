@@ -19,6 +19,10 @@ https://www.youtube.com/watch?v=ArsvoA9_Tgw
 ### 실험
 음악방송 영상으로 해보았다<br>
 
+#### 사용한 영상
+FOREVER 1 - 소녀시대 (GIRLS’ GENERATION) [뮤직뱅크/Music Bank] | KBS 220819 방송<br>
+https://youtu.be/06IJM0r4IQc
+
 흔들린 이미지<br>
 ![so1080-Scene-013-01](https://user-images.githubusercontent.com/86832485/187141843-d1bcb831-d5e7-4432-84bb-d986f20e8026.png)
 
