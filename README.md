@@ -1,6 +1,6 @@
 # PySceneDetect
 Extract images that can be used as thumbnails from videos
-pyscene을 사용하여 동영상 내 썸네일로 사용할 만한 사진을 추출해보았다. 
+pyscene을 사용하여 동영상 내 썸네일로 사용할 만한 사진을 추출
 
 ### 사용한 동영상
 정육왕님의 89.8%가 잘 모르는 수육 레전드 부위<br>
