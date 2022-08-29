@@ -19,9 +19,10 @@ https://www.youtube.com/watch?v=ArsvoA9_Tgw
 ### 실험
 음악방송 영상으로 해보았다<br>
 
-흔들린 이미지![so1080-Scene-013-01](https://user-images.githubusercontent.com/86832485/187141843-d1bcb831-d5e7-4432-84bb-d986f20e8026.png)
+흔들린 이미지<br>
+![so1080-Scene-013-01](https://user-images.githubusercontent.com/86832485/187141843-d1bcb831-d5e7-4432-84bb-d986f20e8026.png)
 
-잘 추출된 이미지
+잘 추출된 이미지<br>
 ![so1080-Scene-015-01](https://user-images.githubusercontent.com/86832485/187141961-d884ad36-30f4-4c14-b9cb-eeda1184ec58.png)
 
 중간중간 포즈를 취하는 부분은 잘 추출되었으나 춤추는 부분은 흔들리는 이미지가 추출되었다.
@@ -33,7 +34,7 @@ https://www.youtube.com/watch?v=ArsvoA9_Tgw
 
 ### 앞으로
 어떻게 해야 음악 방송 영상에서 제대로 된 이미지를 추출할 수 있을까?
-- 음악 방송에서 추출된 흔들리는 이미지들을 합성하여 흔들리지 않은 제대로 된 이미지 만들기
+- 음악 방송에서 추출된 흔들리는 이미지들을 합성하여 흔들리지 않은 제대로 된 이미지를 만들 수 있지 않을까
 
 
 ### Reference
